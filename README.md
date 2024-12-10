@@ -35,7 +35,7 @@
 ## Défis et Résolutions de Conflits
 - Description des conflits rencontrés
 - Méthodes de résolution
-- Captures d'écran des conflits (optionnel)
+- Captures d'écran des conflits
 
 ## Rétrospective
 - Points positifs de la collaboration
